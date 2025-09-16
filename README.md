@@ -1,2 +1,2 @@
 
-![Profile picture](New-Banner.png) 
+![Profile picture](New-Banner.jpg) 
