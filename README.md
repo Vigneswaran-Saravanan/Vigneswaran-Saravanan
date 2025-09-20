@@ -1,7 +1,7 @@
 
 ![Profile picture](New-Banner.jpg) 
 
-## Vigneswaran Saravanan
+# Vigneswaran Saravanan
 I am pursuing Web Development at [Humber College](https://humber.ca/) with a strong passion for creating modern, responsive, and user-friendly web applications.
 
 - Currently learning Frontend and Backend development.
