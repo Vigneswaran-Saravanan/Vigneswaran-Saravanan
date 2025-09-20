@@ -4,11 +4,8 @@
 ## Vigneswaran Saravanan
 I am pursuing Web Development at [Humber College](https://humber.ca/) with a strong passion for creating modern, responsive, and user-friendly web applications.
 
-- 🌱 Currently learning **Frontend & Backend development**  
-- 🛠️ Building projects with **HTML, CSS, Bootstrap, Python, Django, and MySQL**  
-- 🎯 Goal: To grow as a **Full-Stack Developer** and contribute to real-world projects  
-- 📍 Based in Canada, open to collaborations and new opportunities  
-
+-Currently learning Frontend and Backend development.
+-Gaining hands-on experience by implementing projects with HTML, CSS, JavaScript, C#, Python and MySQL.
 
 ---
 
