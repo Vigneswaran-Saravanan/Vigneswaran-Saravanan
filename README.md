@@ -2,8 +2,7 @@
 ![Profile picture](New-Banner.jpg) 
 
 ## Vigneswaran Saravanan
-I’m currently a **Web Development student at Humber College**, passionate about learning how to build modern and responsive web applications.  
-Alongside my studies, I’m working on personal projects to sharpen my skills and bring creative ideas to life.  
+I am pursuing Web Development at [Humber College](https://humber.ca/) with a strong passion for creating modern, responsive, and user-friendly web applications.
 
 - 🌱 Currently learning **Frontend & Backend development**  
 - 🛠️ Building projects with **HTML, CSS, Bootstrap, Python, Django, and MySQL**  
