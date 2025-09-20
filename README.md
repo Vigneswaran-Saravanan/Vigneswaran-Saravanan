@@ -2,15 +2,14 @@
 ![Profile picture](New-Banner.jpg) 
 
 ## Vigneswaran Saravanan
-💻 Full-Stack Developer passionate about creating responsive and user-friendly web applications.
+I’m currently a **Web Development student at Humber College**, passionate about learning how to build modern and responsive web applications.  
+Alongside my studies, I’m working on personal projects to sharpen my skills and bring creative ideas to life.  
 
-## 💡 About Me
-I’m a **Full-Stack Developer** passionate about building modern, user-friendly applications.  
-I enjoy solving problems, learning new technologies, and collaborating on projects that create real impact.  
+- 🌱 Currently learning **Frontend & Backend development**  
+- 🛠️ Building projects with **HTML, CSS, Bootstrap, Python, Django, and MySQL**  
+- 🎯 Goal: To grow as a **Full-Stack Developer** and contribute to real-world projects  
+- 📍 Based in Canada, open to collaborations and new opportunities  
 
-- 🎯 Focus: Frontend (HTML, CSS, Bootstrap), Backend (Python, Django), Database (MySQL)  
-- ⚡ Interests: Web development, AI tools, and creative design  
-- 🌎 Based in Canada | 📌 Open to opportunities  
 
 ---
 
